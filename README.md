@@ -1,2 +1,2 @@
 # MyFirstGitHubRepository
-This is just for Practice
+This is just for Practice.
